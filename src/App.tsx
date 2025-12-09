@@ -27,7 +27,7 @@ function App() {
           path="/manager"
           element={
             <div>
-              dashboard{" "}
+              dashboard
               <div>
                 header <Outlet />
               </div>
